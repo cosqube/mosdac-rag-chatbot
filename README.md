@@ -1,4 +1,4 @@
-# MOSDAC Retrieval-Augmented Generation (RAG) System
+# MOSDAC Retrieval-Augmented Generation (RAG) System (ISRO HACKATHON)
 
 ## Overview
 This project implements a Retrieval-Augmented Generation (RAG) system using data from [MOSDAC](https://www.mosdac.gov.in). It crawls, processes, and indexes MOSDAC data, enabling semantic search and conversational Q&A via a Streamlit chatbot UI.
@@ -46,4 +46,5 @@ This project implements a Retrieval-Augmented Generation (RAG) system using data
 
 ## Notes
 - For geospatial queries, see the optional section in `rag.py`.
+
 - Use GitHub or Google Drive for version control/collaboration. 
